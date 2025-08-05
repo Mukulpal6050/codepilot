@@ -4,7 +4,14 @@
 
 CodePilot is a modern SaaS-style web app that supercharges your development workflow using AI. Powered by Gemini API, CodePilot offers instant code generation, intelligent answers to dev questions, and smart FAQs — all in a clean, responsive UI.
 
-![CodePilot Banner](public/screenshots/Hero.png) <!-- Replace with actual screenshot if needed -->
+
+-----Dark Mode Hero Section
+![CodePilot Banner](public/screenshots/Hero.png) 
+
+
+-----Light Mode Hero Section
+
+![CodePilot Banner](public/screenshots/HeroLight.png)
 
 ---
 
@@ -12,7 +19,33 @@ CodePilot is a modern SaaS-style web app that supercharges your development work
 
 - ⚡ Ask Gemini – Chat interface for AI-powered development help
 - 🔧 Code Generator – Get production-ready code snippets
+![CodePilot Banner](public/screenshots/codeGenerator.png)
+-----------
+---------Code Generator Generating Mode
+![CodePilot Banner](public/screenshots/generating.png)
+
+------Code Generator Response
+![CodePilot Banner](public/screenshots/generated.png)
 - ❓ Smart FAQs – Search and filter FAQs with ease
+
+---------
+
+--------Smart FAQ Helper Preview
+
+![CodePilot Banner](public/screenshots/SmartFaqHelper.png)
+
+-----Thinking mode of Smart FAQ Helper
+
+![CodePilot Banner](public/screenshots/GeminiThiking.png)
+
+
+------Response of Smart FAQ Helper Preview
+
+![CodePilot Banner](public/screenshots/GeminiRes.png)
+
+
+
+
 - 📱 Responsive design – Works beautifully across devices
 - 🌙 Dark mode toggle – Built-in theme switching
 - ✨ Smooth scroll, animations (Framer Motion), and gradients
@@ -20,6 +53,9 @@ CodePilot is a modern SaaS-style web app that supercharges your development work
 - 🧠 Tool Showcase – AI dev tools carousel (ChatGPT, Copilot, etc.)
 ---
 
+-------ASK Gemini Preview
+
+![CodePilot Banner](public/screenshots/res.png)
 
 Live Demo 👉 [codepilot-khaki.vercel.app](https://codepilot-khaki.vercel.app)  
 GitHub Repo 👉 [github.com/Mukulpal6050/codepilot](https://github.com/Mukulpal6050/codepilot)
